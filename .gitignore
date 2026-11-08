@@ -1,0 +1,14 @@
+# Binários Go
+service-code-api
+*.exe
+*.out
+*.test
+
+# Ambiente
+.env
+.env.*
+
+# Editores / SO
+.idea/
+.vscode/
+.DS_Store
